@@ -27,7 +27,7 @@ public class ExceptionThrows {
 public static void input() throws InputMismatchException {
 	
 	System.out.print("입력 :");
-	int input = sc.nextInt()
+	int input = sc.nextInt();
 			
 			int input = sc.nextInt(input);
 }
